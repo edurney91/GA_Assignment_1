@@ -1,0 +1,32 @@
+
+
+nav{
+	text-align: center;
+}
+nav a{
+	display: inline-block;
+	padding: 30px;
+	background: red;
+	border-radius: 10px;
+	color: white;
+
+}
+nav p{
+	display: inline-block;
+	font-size: 30px;
+}
+
+
+footer ul li{
+	width: 33%;
+	float: left;
+	list-style-type: circle;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	font-style: italic;
+}
